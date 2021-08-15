@@ -1,7 +1,7 @@
 {
   "name": "tesla",
   "version": "0.1.0",
-  "homepage": "http://mohmmadasim07.github.io/TeslaClone",
+
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
@@ -15,8 +15,7 @@
     "styled-components": "^5.3.0"
   },
   "scripts": {
-    "preload":"npm run build",
-    "deploy":"gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
