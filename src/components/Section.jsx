@@ -60,12 +60,16 @@ background-color:white;
 const Arw = styled.img
 `
 margin-top:20px;
+margin-left:45%;
 height:40px;
 animation:animate infinite 1.6s;
 overflow-x:hidden;
 
 `;
-const Button =styled.div``;
+const Button =styled.div`
+
+
+`;
 
 function Section(props) {
     return (
