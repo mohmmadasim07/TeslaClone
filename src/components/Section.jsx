@@ -64,7 +64,9 @@ margin-left:45%;
 height:40px;
 animation:animate infinite 1.6s;
 overflow-x:hidden;
-
+@media(max-width:700px){
+    margin-left:40%;
+}
 `;
 const Button =styled.div`
 

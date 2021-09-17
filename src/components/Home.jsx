@@ -13,6 +13,7 @@ height:100vh;
 function Home() {
     return (
       <Container>
+        
           <Section title="Model S" backgroundImg="model-s.jpg" />
           <Section title="Model y" backgroundImg="model-y.jpg"/>
           <Section title="Model 3" backgroundImg="model-3.jpg"/>

@@ -106,7 +106,6 @@ function Header() {
                 <li><a href="#">Roadaster</a></li>
                 <li><a href="#">Shop</a></li>
                 <li><a href="#">Model S </a></li>
-                <li><a href="#">Model Y</a></li>
 
             </BurgerNav>
         </Container>
